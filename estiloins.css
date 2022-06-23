@@ -1,0 +1,25 @@
+body{
+    height: 125vh;  
+    margin-top:80px;  
+    padding: 30px;  
+    
+    background-color: #696969; 
+ 
+}
+.btn{ border-radius:3px;
+    display: inline-block;
+    padding: 15px 40px; 
+    text-decoration: none;
+    float: right;
+    margin-left: 15px;
+  }
+
+ .btn-orange{color: black; background-color: #D39E38 ; }
+
+ .menenc { margin-top: 20px;color: black; background-color: #D39E38 ;
+   }
+
+   .maintext{ color: #D39E38; text-align: center; }
+
+   .fotosins {float: left; width: 300px; height: 300px ; margin-left: 50px; }
+  
